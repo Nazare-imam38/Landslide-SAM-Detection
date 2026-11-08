@@ -1,0 +1,62 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+.venv/
+venv/
+ENV/
+
+# R
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# Jupyter / Notebooks
+.ipynb_checkpoints
+
+# Environment & Local IDE configs
+.env
+.vscode/
+.idea/
+
+# Large Datasets and Raster/GeoTIFF Binaries
+# (Raw Sentinel GeoTIFFs and large DEM rasters > 1MB)
+data/pre/
+data/post/
+data/dem/
+*.tif
+*.tiff
+*.tif.aux.xml
+
+# Archives & Temporary Artifacts
+*.zip
+Research_Audit_Package.zip
+
+# Personal & Admission specific documents
+phd.pdf
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store

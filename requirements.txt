@@ -1,0 +1,17 @@
+pystac-client
+stackstac
+planetary-computer
+rasterio
+rioxarray
+geopandas
+matplotlib
+numpy
+pandas
+segment-geospatial
+torch
+torchvision
+leafmap
+localtileserver
+pystac
+pyproj
+odc-stac
